@@ -50,7 +50,7 @@ npm run dev
 Whether you're starting your fitness journey or looking for tailored guidance, this chatbot serves as your AI fitness partner, available 24/7 for motivation, plans, and tips.
 
 📽️ Demo
-A short video demo is included in the repository. (or: View Demo)
+A short video demo is included on my linkedin profile
 
 🤝 Contributions
 Feel free to fork this repo, suggest improvements, or collaborate on upcoming features. Feedback is always welcome!
@@ -58,6 +58,6 @@ Feel free to fork this repo, suggest improvements, or collaborate on upcoming fe
 📫 Contact
 For questions, ideas, or collaboration:
 📩 [payalmahure29@gmail.com]
-🔗 https://www.linkedin.com/in/payal-mahure-05b024257
+🔗  linkedin - https://www.linkedin.com/in/payal-mahure-05b024257
 
 
