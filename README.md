@@ -39,7 +39,7 @@ bash
 Copy
 Edit
 # Clone the repo
-git clone https://github.com/your-username/gym-chatbot.git
+git clone https://github.com/payal-mahure/gym-chatbot.git
 
 # Install dependencies
 npm install
